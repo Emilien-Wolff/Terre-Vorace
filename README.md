@@ -3,8 +3,6 @@
 > [!NOTE]
 > Un projet dans le cadre de ma deuxième année en école d'ingénieur visant l'élaboration d'une aération d'un lombricomposteur pour préserver les lombrics
 
-![alt text](https://raw.githubusercontent.com/Emilien-Wolff/Pronto-Abysse/refs/heads/main/Photos/IMG_3810.JPG)
-
 ## Objectifs
 
 > Améliorer le composteur en le dotant d’un système d’aération efficace permettant la survie des lombrics.
