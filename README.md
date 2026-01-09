@@ -3,6 +3,8 @@
 > [!NOTE]
 > Un projet dans le cadre de ma deuxième année en école d'ingénieur visant l'élaboration d'une aération d'un lombricomposteur pour préserver les lombrics
 
+![Page 1](documentation/Poster - Groupe 60 V2.png)
+
 ## Objectifs
 
 > Améliorer le composteur en le dotant d’un système d’aération efficace permettant la survie des lombrics.
