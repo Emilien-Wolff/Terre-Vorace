@@ -3,7 +3,7 @@
 > [!NOTE]
 > Un projet dans le cadre de ma deuxième année en école d'ingénieur visant l'élaboration d'une aération d'un lombricomposteur pour préserver les lombrics
 
-![alt text](https://raw.githubusercontent.com/Emilien-Wolff/Terre Vorace/refs/heads/main/Documentation/Poster - Groupe 60 V2.png)
+![alt text](https://raw.githubusercontent.com/Emilien-Wolff/Terre-Vorace/refs/heads/main/Documentation/Poster - Groupe 60 V2.png)
 
 ## Objectifs
 
