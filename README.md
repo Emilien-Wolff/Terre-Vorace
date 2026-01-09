@@ -29,7 +29,7 @@ Terre Vorace est une entreprise française (basée à Nantes) spécialisée dans
 
 #### Combien de temps ça vous a pris ?
 
-Le projet a duré 3 mois, de septebre 2025 à  fin novembre 2025
+Le projet a duré 3 mois, de septembre 2025 à  fin novembre 2025
 
 ## 🚀 Qui suis-je ?
 Je suis actuellement étudiant ingénieur automaticien en deuxième année d'école d'ingénieur à l'école des Mines IMT Atlantique.
